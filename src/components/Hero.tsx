@@ -3,9 +3,9 @@ import { AnimatePresence, motion } from 'motion/react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
-  { url: './assets/hero/buffalonekhero1.jpg', caption: 'Legacy of Leadership and Learning' },
-  { url: './assets/hero/buffalonekhero2.jpg', caption: 'Academic Excellence' },
-  { url: './assets/hero/buffalonekhero3.jpg', caption: 'Established 2022' },
+  { url: './assets/hero/FB_IMG_1780363435249.jpg', caption: 'Legacy of Leadership and Learning' },
+  { url: './assets/hero/FB_IMG_1780363528349.jpg', caption: 'Academic Excellence' },
+  { url: './assets/hero/FB_IMG_1780363547096.jpg', caption: 'Established 2022' },
   { url: './assets/hero/buffalonekhero4.jpg', caption: 'Community Pride' },
   { url: './assets/hero/buffalonekhero5.jpg', caption: 'Building Tomorrow' },
 ];
@@ -75,7 +75,7 @@ export const Hero = () => {
           className="mb-5"
         >
           <img
-            src="./buffalonek_logo.png"
+            src="./assets/logo/FB_IMG_1780363446402.jpg"
             alt="Buffalo-Nek High School crest"
             className="w-20 h-20 md:w-24 md:h-24 rounded-full object-cover shadow-2xl mx-auto"
             style={ { border: '3px solid #D4AF37' } }

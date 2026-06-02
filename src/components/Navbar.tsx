@@ -32,7 +32,7 @@ export const Navbar = () => {
             <Link to="/" className="flex items-center gap-3 min-w-0 flex-1">
               <div className="h-11 w-11 shrink-0 rounded-xl bg-white flex items-center justify-center overflow-hidden shadow-md" style={ { border: '2px solid #D4AF37' } }>
                 <img
-                  src="/buffalonek_logo.png"
+                  src="/assets/logo/FB_IMG_1780363446402.jpg"
                   alt="Buffalo-Nek High School logo"
                   className="h-full w-full object-cover"
                 />

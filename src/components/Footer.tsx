@@ -24,7 +24,7 @@ export const Footer = () => {
             <div className="flex items-center gap-3 mb-3">
               <div className="h-12 w-12 shrink-0 rounded-xl overflow-hidden shadow-lg"
                 style={ { background: '#D4AF37', border: '2px solid #D4AF37' } }>
-                <img src="/buffalonek_logo.png" alt="Buffalo-Nek High School logo"
+                <img src="/assets/logo/FB_IMG_1780363446402.jpg" alt="Buffalo-Nek High School logo"
                   className="h-full w-full object-cover" />
               </div>
               <div>
