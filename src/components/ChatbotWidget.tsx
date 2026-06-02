@@ -358,7 +358,7 @@ export function ChatbotWidget(props: { defaultOpen?: boolean }) {
                 <Sparkles size={16} />
               </div>
               <div className="min-w-0">
-                <div className="font-bold text-sm leading-tight truncate">Jojo Assistant</div>
+                <div className="font-bold text-sm leading-tight truncate">Buffalo-Nek Assistant</div>
                 <div className="flex items-center gap-1 text-[11px] text-white/70 mt-0.5">
                   <span className="w-1.5 h-1.5 rounded-full bg-green-300 inline-block animate-pulse" />
                   Online · AI-powered
